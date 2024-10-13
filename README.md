@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/spgninduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="spgninduranga" height="30" width="40" /></a>
 <a href="https://discord.gg/C5yBBtkM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="C5yBBtkM" height="30" width="40" /></a>
 </p>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="400" align="right" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="300" align="right" />
 
 
 <h3 align="left">Languages and Tools:</h3>
