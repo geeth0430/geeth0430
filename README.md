@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geeth Nirodha</h1>
 <h3 align="center">✨I am Computer Science Undergraduate🎉 Of NSBM Green University Of Sri Lanka.🏆</h3>
+<img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding GIF" width="300" align="right" />
+
 
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me **nirodhageeth@gmail.com**
