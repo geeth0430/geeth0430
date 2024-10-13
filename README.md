@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/geeth0430/geeth0430/blob/main/github-header-image%20(5).png?raw=true)
+![Header Image](https://github.com/geeth0430/geeth0430/blob/main/github-header-image%20(6).png)
 <h1 align="center">Hi 👋, I'm Geeth Nirodha</h1>
 <h3 align="center">✨I am Computer Science Undergraduate🎉 Of NSBM Green University Of Sri Lanka.🏆</h3>
 
