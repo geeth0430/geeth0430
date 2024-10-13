@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me **nirodhageeth@gmail.com**
-- <p align="right">
-  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding GIF" width="100" style="border-radius: 50%;" />
-</p>
+  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding GIF" width="100" style="border-radius: 50%;align="right" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nirodha639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nirodha639" height="30" width="40" /></a>
