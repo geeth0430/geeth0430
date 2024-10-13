@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Geeth Nirodha</h1>
 <h3 align="center">✨I am Computer Science Undergraduate🎉 Of NSBM Green University Of Sri Lanka.🏆</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20views&color=0e75b6&style=flat" alt="geeth0430" /> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **nirodhageeth@gmail.com**
-- <p align="center">
-  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding GIF" width="300" style="border-radius: 50%;" />
+<p align="right">
+  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding GIF" width="100" style="border-radius: 50%;" />
 </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
