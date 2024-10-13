@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20views&color=0e75b6&style=flat" alt="geeth0430" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geeth0430" alt="geeth0430" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@nirodha639" target="blank"><img src="https://img.shields.io/twitter/follow/@nirodha639?logo=twitter&style=for-the-badge" alt="@nirodha639" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **nirodhageeth@gmail.com**
@@ -28,6 +24,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/geeth0430"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="geeth0430" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geeth0430&show_icons=true&locale=en&layout=compact" alt="geeth0430" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geeth0430&show_icons=true&locale=en&hide=contribs,username" alt="geeth0430" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geeth0430&show_icons=true&locale=en&layout=compact" alt="geeth0430" /></p>
