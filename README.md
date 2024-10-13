@@ -1,3 +1,4 @@
+[![Header Image](https://your-image-url.com)](https://leviarista.github.io/github-profile-header-generator/)
 <h1 align="center">Hi 👋, I'm Geeth Nirodha</h1>
 <h3 align="center">✨I am Computer Science Undergraduate🎉 Of NSBM Green University Of Sri Lanka.🏆</h3>
 
