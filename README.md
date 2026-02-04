@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/geeth nirodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geeth nirodha" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/geeth-nirodha-81a21a393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geeth nirodha" height="30" width="40" /></a>
 </p>
 <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding GIF" width="400" align="right" style="border-radius: 50%;" />
 <h3 align="left">Languages and Tools:</h3>
