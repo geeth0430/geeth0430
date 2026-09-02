@@ -63,12 +63,12 @@
 ### 🧰 QA Toolkit
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Manual%20Testing-16A34A?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-16A34A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual%20Testing-4B5563?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Postman-16A34A?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-16A34A?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-16A34A?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 </p>
 
 ### 💻 Dev Stack
@@ -87,10 +87,10 @@
 ### 🎯 Beyond Code
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Travelling-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Designing-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reading%20Books-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Watching%20Films-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Travelling-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Designing-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reading%20Books-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Watching%20Films-8B5CF6?style=flat-square" />
 </p>
 
 </td>
@@ -106,13 +106,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/geeth-nirodha-81a21a393" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.behance.net/geethnirodha" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-16A34A?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
   <a href="mailto:nirodhageeth@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-16A34A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
