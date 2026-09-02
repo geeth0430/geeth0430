@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Quality+Assurance+Engineer;Manual+Testing+%7C+Bug+Reporting+%7C+Test+Cases;Exploring+Selenium+%2B+Playwright+%2B+Cypress;Quality+First%2C+Always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Quality+Assurance+Enthusiast;Manual+Testing+%7C+Bug+Reporting+%7C+Test+Cases;Selenium+%2B+Playwright+%2B+Cypress+%2B+Postman;Quality+First%2C+Always." alt="Typing SVG" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ Test Steps      :
 
 ─────────────────────────────────────────────
 
-Expected Result : A reliable, detail-oriented QA Engineer
+Expected Result : A reliable, detail-oriented QA Enthusiast
 Actual Result   : ✅ Geeth Nirodha — Software Quality Assurance Enthusiast
 Status          : PASSED ✔️
 ```
