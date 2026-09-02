@@ -35,16 +35,16 @@
 </td>
 <td style="padding: 24px;">
 
-<pre style="font-size:20px; line-height:1.7; background:#0d1117; color:#c9d1d9; padding:20px; border-radius:8px;">
-<b><span style="color:#2ECC71;">Test Case ID</span>    : QA-0430
-<span style="color:#2ECC71;">Title</span>           : Identify Geeth Nirodha
-<span style="color:#2ECC71;">Module</span>          : Software Quality Assurance
+<pre style="font-size:24px; line-height:1.7; background:#0d1117; color:#c9d1d9; padding:20px; border-radius:8px;">
+<b><span style="color:#00FF00;">Test Case ID</span>    : QA-0430
+<span style="color:#00FF00;">Title</span>           : Identify Geeth Nirodha
+<span style="color:#00FF00;">Module</span>          : Software Quality Assurance
 
 ─────────────────────────────────────────────
 
-<span style="color:#2ECC71;">Precondition</span>    : Curious mind + love for finding what's broken
+<span style="color:#00FF00;">Precondition</span>    : Curious mind + love for finding what's broken
 
-<span style="color:#2ECC71;">Test Steps</span>      :
+<span style="color:##00FF00;">Test Steps</span>      :
   1. Study Computer Science at NSBM Green University
 
   2. Test software manually with a sharp eye for detail
@@ -55,9 +55,9 @@
 
 ─────────────────────────────────────────────
 
-<span style="color:#2ECC71;">Expected Result</span> : A reliable, detail-oriented QA Enthusiast
-<span style="color:#2ECC71;">Actual Result</span>   : ✅ Geeth Nirodha — Software Quality Assurance Enthusiast
-<span style="color:#2ECC71;">Status</span>          : PASSED ✔️</b>
+<span style="color:##00FF00;">Expected Result</span> : A reliable, detail-oriented QA Enthusiast
+<span style="color:#00FF00;">Actual Result</span>   : ✅ Geeth Nirodha — Software Quality Assurance Enthusiast
+<span style="color:#00FF00;">Status</span>          : PASSED ✔️</b>
 </pre>
 
 </td>
