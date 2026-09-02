@@ -35,7 +35,7 @@
 </td>
 <td style="padding: 24px;">
 
-<pre style="font-size:18px; line-height:1.7; background:#0d1117; color:#c9d1d9; padding:20px; border-radius:8px;">
+<pre style="font-size:20px; line-height:1.7; background:#0d1117; color:#c9d1d9; padding:20px; border-radius:8px;">
 <b><span style="color:#2ECC71;">Test Case ID</span>    : QA-0430
 <span style="color:#2ECC71;">Title</span>           : Identify Geeth Nirodha
 <span style="color:#2ECC71;">Module</span>          : Software Quality Assurance
