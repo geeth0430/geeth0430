@@ -49,7 +49,7 @@ Test Steps      :
 
   2. Test software manually with a sharp eye for detail
 
-  3. Explore automation with Selenium, Playwright & Cypress
+  3. Explore automation with Selenium, Playwright, Cypress & Postman
 
   4. Design creative work on the side 🎨
 
