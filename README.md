@@ -31,18 +31,18 @@
 <pre style="font-size:17px; line-height:2; letter-spacing:0.3px;">
 ─────────────────────────────────────────────────────
 
- Test Case ID   :  QA-0430
+ <span style="color:#16A34A">Test Case ID</span>   :  QA-0430
 
- Title          :  Identify Geeth Nirodha
+ <span style="color:#16A34A">Title</span>          :  Identify Geeth Nirodha
 
- Module         :  Software Quality Assurance
+ <span style="color:#16A34A">Module</span>         :  Software Quality Assurance
 
 ─────────────────────────────────────────────────────
 
- Precondition   :  Curious mind + love for finding what's broken
+ <span style="color:#16A34A">Precondition</span>   :  Curious mind + love for finding what's broken
 
 
- Test Steps     :
+ <span style="color:#16A34A">Test Steps</span>     :
 
    1. Study Computer Science at NSBM Green University
 
@@ -54,12 +54,12 @@
    4. Design creative work on the side 🎨
 
 
- Expected Result:  A reliable, detail-oriented QA Engineer
+ <span style="color:#16A34A">Expected Result</span>:  A reliable, detail-oriented QA Engineer
 
- Actual Result   :  ✅ Geeth Nirodha — Software Quality
+ <span style="color:#16A34A">Actual Result</span>   :  ✅ Geeth Nirodha — Software Quality
                       Assurance Enthusiast
 
- Status          :  PASSED ✔️
+ <span style="color:#16A34A">Status</span>          :  PASSED ✔️
 
 ─────────────────────────────────────────────────────
 </pre>
@@ -141,3 +141,4 @@
 <p align="center">
   <i>🧪 "Quality is never an accident; it is always the result of intelligent effort." — John Ruskin</i>
 </p>
+
