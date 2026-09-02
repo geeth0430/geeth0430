@@ -28,41 +28,9 @@
 
 <br/><br/>
 
-<table align="center">
-<tr>
-<td valign="center" width="20%" align="center" style="padding: 24px;">
-  <img src="https://img.icons8.com/fluency/240/bug.png" alt="QA Tester" width="140"/>
-</td>
-<td style="padding: 24px;">
-
-<pre style="font-size:28px; line-height:1.9; letter-spacing:0.5px; background:#0d1117; color:#c9d1d9; padding:24px; border-radius:8px; font-weight:500;">
-<b><span style="color:#00FF00;">Test Case ID</span>    : QA-0430
-<span style="color:#00FF00;">Title</span>           : Identify Geeth Nirodha
-<span style="color:#00FF00;">Module</span>          : Software Quality Assurance
-
-─────────────────────────────────────────────
-
-<span style="color:#00FF00;">Precondition</span>    : Curious mind + love for finding what's broken
-
-<span style="color:#00FF00;">Test Steps</span>      :
-  1. Study Computer Science at NSBM Green University
-
-  2. Test software manually with a sharp eye for detail
-
-  3. Explore automation with Selenium, Playwright, Cypress & Postman
-
-  4. Design creative work on the side 🎨
-
-─────────────────────────────────────────────
-
-<span style="color:#00FF00;">Expected Result</span> : A reliable, detail-oriented QA Enthusiast
-<span style="color:#00FF00;">Actual Result</span>   : ✅ Geeth Nirodha — Software Quality Assurance Enthusiast
-<span style="color:#00FF00;">Status</span>          : PASSED ✔️</b>
-</pre>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./test-case-report.svg" alt="Test Case Report" width="100%" style="max-width:900px;"/>
+</p>
 <br/>
 
 ---
