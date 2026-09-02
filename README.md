@@ -28,21 +28,21 @@
 <tr>
 <td valign="top" width="100%">
 
-<pre style="font-size:17px; line-height:2; letter-spacing:0.3px;">
+```ansi
 ─────────────────────────────────────────────────────
 
- <span style="color:#16A34A">Test Case ID</span>   :  QA-0430
+ [32mTest Case ID[0m   :  QA-0430
 
- <span style="color:#16A34A">Title</span>          :  Identify Geeth Nirodha
+ [32mTitle[0m          :  Identify Geeth Nirodha
 
- <span style="color:#16A34A">Module</span>         :  Software Quality Assurance
+ [32mModule[0m         :  Software Quality Assurance
 
 ─────────────────────────────────────────────────────
 
- <span style="color:#16A34A">Precondition</span>   :  Curious mind + love for finding what's broken
+ [32mPrecondition[0m   :  Curious mind + love for finding what's broken
 
 
- <span style="color:#16A34A">Test Steps</span>     :
+ [32mTest Steps[0m     :
 
    1. Study Computer Science at NSBM Green University
 
@@ -54,15 +54,15 @@
    4. Design creative work on the side 🎨
 
 
- <span style="color:#16A34A">Expected Result</span>:  A reliable, detail-oriented QA Engineer
+ [32mExpected Result[0m:  A reliable, detail-oriented QA Engineer
 
- <span style="color:#16A34A">Actual Result</span>   :  ✅ Geeth Nirodha — Software Quality
+ [32mActual Result[0m   :  ✅ Geeth Nirodha — Software Quality
                       Assurance Enthusiast
 
- <span style="color:#16A34A">Status</span>          :  PASSED ✔️
+ [32mStatus[0m          :  PASSED ✔️
 
 ─────────────────────────────────────────────────────
-</pre>
+```
 
 </td>
 </tr>
@@ -141,4 +141,3 @@
 <p align="center">
   <i>🧪 "Quality is never an accident; it is always the result of intelligent effort." — John Ruskin</i>
 </p>
-
