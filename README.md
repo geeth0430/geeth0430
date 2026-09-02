@@ -4,12 +4,12 @@
 <h3 align="center">🎯 Software Quality Assurance Enthusiast | 🎓 CS Undergraduate @ NSBM Green University, Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="geeth0430" />
-  <img src="https://img.shields.io/badge/Bug%20Hunter-since%202023-7C3AED?style=for-the-badge" alt="Bug Hunter" />
+  <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20views&color=16A34A&style=for-the-badge" alt="geeth0430" />
+  <img src="https://img.shields.io/badge/Bug%20Hunter-since%202023-16A34A?style=for-the-badge" alt="Bug Hunter" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Software+Quality+Assurance+Enthusiast;Tools%3A+Selenium%2C+Postman%2C+Playwright+and+Cypress;Manual+Testing+%7C+Bug+Reporting+%7C+Test+Cases;Quality+First%2C+Always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=650&lines=Software+Quality+Assurance+Enthusiast;Tools%3A+Selenium%2C+Postman%2C+Playwright+and+Cypress;Manual+Testing+%7C+Bug+Reporting+%7C+Test+Cases;Quality+First%2C+Always." alt="Typing SVG" />
 </p>
 
 ---
@@ -63,12 +63,12 @@
 ### 🧰 QA Toolkit
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Manual%20Testing-7C3AED?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-7C3AED?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual%20Testing-16A34A?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-16A34A?style=for-the-badge&logo=selenium&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Postman-7C3AED?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-7C3AED?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-7C3AED?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-16A34A?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-16A34A?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-16A34A?style=for-the-badge&logo=cypress&logoColor=white" />
 </p>
 
 ### 💻 Dev Stack
@@ -87,10 +87,10 @@
 ### 🎯 Beyond Code
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Travelling-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Designing-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reading%20Books-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Watching%20Films-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Travelling-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Designing-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reading%20Books-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Watching%20Films-16A34A?style=flat-square" />
 </p>
 
 </td>
@@ -106,13 +106,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/geeth-nirodha-81a21a393" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.behance.net/geethnirodha" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-7C3AED?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+    <img src="https://img.shields.io/badge/Behance-16A34A?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
   <a href="mailto:nirodhageeth@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-16A34A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
