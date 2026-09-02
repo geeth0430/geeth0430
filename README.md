@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">🧪 Who Am I — Test Case Report</h2>
+<h2 align="center" style="font-size:32px;">🧪 Who Am I — Test Case Report</h2>
 
 <br/>
 
@@ -35,8 +35,8 @@
 </td>
 <td style="padding: 24px;">
 
-```yaml
-Test Case ID    : QA-0430
+<pre style="font-size:18px; line-height:1.7; background:#0d1117; color:#c9d1d9; padding:20px; border-radius:8px;">
+<b>Test Case ID    : QA-0430
 Title           : Identify Geeth Nirodha
 Module          : Software Quality Assurance
 
@@ -57,8 +57,8 @@ Test Steps      :
 
 Expected Result : A reliable, detail-oriented QA Enthusiast
 Actual Result   : ✅ Geeth Nirodha — Software Quality Assurance Enthusiast
-Status          : PASSED ✔️
-```
+Status          : PASSED ✔️</b>
+</pre>
 
 </td>
 </tr>
