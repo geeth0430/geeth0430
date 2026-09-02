@@ -28,27 +28,41 @@
 <tr>
 <td valign="top" width="100%">
 
-```yaml
+<pre style="font-size:17px; line-height:2; letter-spacing:0.3px;">
 ─────────────────────────────────────────────────────
- Test Case ID   : QA-0430
- Title          : Identify Geeth Nirodha
- Module         : Software Quality Assurance
+
+ Test Case ID   :  QA-0430
+
+ Title          :  Identify Geeth Nirodha
+
+ Module         :  Software Quality Assurance
+
 ─────────────────────────────────────────────────────
- Precondition   : Curious mind + love for finding what's broken
+
+ Precondition   :  Curious mind + love for finding what's broken
+
 
  Test Steps     :
+
    1. Study Computer Science at NSBM Green University
+
    2. Test software manually with a sharp eye for detail
+
    3. Work confidently with Selenium, Postman, Playwright
       and Cypress
+
    4. Design creative work on the side 🎨
 
- Expected Result: A reliable, detail-oriented QA Engineer
- Actual Result  : ✅ Geeth Nirodha — Software Quality
-                     Assurance Enthusiast
- Status         : PASSED ✔️
+
+ Expected Result:  A reliable, detail-oriented QA Engineer
+
+ Actual Result   :  ✅ Geeth Nirodha — Software Quality
+                      Assurance Enthusiast
+
+ Status          :  PASSED ✔️
+
 ─────────────────────────────────────────────────────
-```
+</pre>
 
 </td>
 </tr>
