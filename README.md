@@ -28,41 +28,16 @@
 <tr>
 <td valign="top" width="100%">
 
-```ansi
-─────────────────────────────────────────────────────
-
- [32mTest Case ID[0m   :  QA-0430
-
- [32mTitle[0m          :  Identify Geeth Nirodha
-
- [32mModule[0m         :  Software Quality Assurance
-
-─────────────────────────────────────────────────────
-
- [32mPrecondition[0m   :  Curious mind + love for finding what's broken
-
-
- [32mTest Steps[0m     :
-
-   1. Study Computer Science at NSBM Green University
-
-   2. Test software manually with a sharp eye for detail
-
-   3. Work confidently with Selenium, Postman, Playwright
-      and Cypress
-
-   4. Design creative work on the side 🎨
-
-
- [32mExpected Result[0m:  A reliable, detail-oriented QA Engineer
-
- [32mActual Result[0m   :  ✅ Geeth Nirodha — Software Quality
-                      Assurance Enthusiast
-
- [32mStatus[0m          :  PASSED ✔️
-
-─────────────────────────────────────────────────────
-```
+| | |
+|:--|:--|
+| 🆔 **Test Case ID** | `QA-0430` |
+| 📌 **Title** | Identify Geeth Nirodha |
+| 🧩 **Module** | Software Quality Assurance |
+| 🔎 **Precondition** | Curious mind + love for finding what's broken |
+| 🪜 **Test Steps** | 1️⃣ Study Computer Science at NSBM Green University<br>2️⃣ Test software manually with a sharp eye for detail<br>3️⃣ Work confidently with Selenium, Postman, Playwright and Cypress<br>4️⃣ Design creative work on the side 🎨 |
+| 🎯 **Expected Result** | A reliable, detail-oriented QA Engineer |
+| ✅ **Actual Result** | Geeth Nirodha — Software Quality Assurance Enthusiast |
+| 🚦 **Status** | ![PASSED](https://img.shields.io/badge/PASSED-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white) |
 
 </td>
 </tr>
