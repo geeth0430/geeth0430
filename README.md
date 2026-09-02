@@ -4,17 +4,19 @@
 <h3 align="center">🎯 Software Quality Assurance Enthusiast | 🎓 CS Undergraduate @ NSBM Green University, Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20views&color=2ea043&style=for-the-badge" alt="geeth0430" />
-  <img src="https://img.shields.io/badge/Bug%20Hunter-since%202023-2ea043?style=for-the-badge" alt="Bug Hunter" />
+  <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="geeth0430" />
+  <img src="https://img.shields.io/badge/Bug%20Hunter-since%202023-2F81F7?style=for-the-badge" alt="Bug Hunter" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&lines=Software+Quality+Assurance+Engineer;Manual+Testing+%7C+Bug+Reporting+%7C+Test+Cases;Exploring+Selenium+%2B+Playwright+%2B+Cypress;Quality+First%2C+Always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Quality+Assurance+Engineer;Manual+Testing+%7C+Bug+Reporting+%7C+Test+Cases;Exploring+Selenium+%2B+Playwright+%2B+Cypress;Quality+First%2C+Always." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧪 Who Am I — Test Case Report
+
+<br/>
 
 <p align="center">
   <img src="https://img.icons8.com/fluency/60/search.png" alt="magnifier" width="50"/>
@@ -24,32 +26,45 @@
   <img src="https://img.icons8.com/fluency/60/ok.png" alt="passed" width="50"/>
 </p>
 
+<br/><br/>
+
 <table align="center">
 <tr>
-<td valign="center" width="20%" align="center">
+<td valign="center" width="20%" align="center" style="padding: 24px;">
   <img src="https://img.icons8.com/fluency/240/bug.png" alt="QA Tester" width="140"/>
 </td>
-<td>
+<td style="padding: 24px;">
 
 ```yaml
-Test Case ID   : QA-0430
-Title          : Identify Geeth Nirodha
-Module         : Software Quality Assurance
+Test Case ID    : QA-0430
+Title           : Identify Geeth Nirodha
+Module          : Software Quality Assurance
+
 ─────────────────────────────────────────────
-Precondition   : Curious mind + love for finding what's broken
-Test Steps     :
+
+Precondition    : Curious mind + love for finding what's broken
+
+Test Steps      :
   1. Study Computer Science at NSBM Green University
+
   2. Test software manually with a sharp eye for detail
+
   3. Explore automation with Selenium, Playwright & Cypress
+
   4. Design creative work on the side 🎨
-Expected Result: A reliable, detail-oriented QA Engineer
-Actual Result  : ✅ Geeth Nirodha — Software Quality Assurance Enthusiast
-Status         : PASSED ✔️
+
+─────────────────────────────────────────────
+
+Expected Result : A reliable, detail-oriented QA Engineer
+Actual Result   : ✅ Geeth Nirodha — Software Quality Assurance Enthusiast
+Status          : PASSED ✔️
 ```
 
 </td>
 </tr>
 </table>
+
+<br/>
 
 ---
 
@@ -60,11 +75,11 @@ Status         : PASSED ✔️
 ### 🧰 QA Toolkit
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Manual%20Testing-2ea043?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual%20Testing-2F81F7?style=for-the-badge&logo=testinglibrary&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2ea043?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2F81F7?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 </p>
 
@@ -84,10 +99,10 @@ Status         : PASSED ✔️
 ### 🎯 Beyond Code
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Travelling-2ea043?style=flat-square" />
-  <img src="https://img.shields.io/badge/Designing-2ea043?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reading%20Books-2ea043?style=flat-square" />
-  <img src="https://img.shields.io/badge/Watching%20Films-2ea043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Travelling-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Designing-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reading%20Books-2F81F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Watching%20Films-2F81F7?style=flat-square" />
 </p>
 
 </td>
@@ -103,13 +118,13 @@ Status         : PASSED ✔️
 
 <p align="left">
   <a href="https://www.linkedin.com/in/geeth-nirodha-81a21a393" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.behance.net/geethnirodha" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-2ea043?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+    <img src="https://img.shields.io/badge/Behance-2F81F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
   <a href="mailto:nirodhageeth@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-2ea043?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
