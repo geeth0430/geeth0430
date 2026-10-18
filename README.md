@@ -1,10 +1,11 @@
+```html
 <img src="https://raw.githubusercontent.com/geeth0430/geeth0430/refs/heads/main/github-header-image%20(17).png" alt="Header Banner" width="100%"/>
 
 <h1 align="center">Hey, I'm Geeth Nirodha 🔍</h1>
 <h3 align="center">🎯 Software Quality Assurance Enthusiast | 🎓 CS Undergraduate @ NSBM Green University, Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20views&color=16A34A&style=for-the-badge" alt="geeth0430" />
+  <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20views&color=16A34A&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Bug%20Hunter-since%202023-16A34A?style=for-the-badge" alt="Bug Hunter" />
 </p>
 
@@ -116,3 +117,4 @@
 <p align="center">
   <i>🧪 "Quality is never an accident; it is always the result of intelligent effort." — John Ruskin</i>
 </p>
+```
