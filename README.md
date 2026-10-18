@@ -4,7 +4,7 @@
 <h3 align="center">🎯 Software Quality Assurance Enthusiast | 🎓 CS Undergraduate @ NSBM Green University, Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20views&color=16A34A&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20Views&color=16A34A&style=for-the-badge" alt="GitHub Profile Views" />
   <img src="https://img.shields.io/badge/Bug%20Hunter-since%202023-16A34A?style=for-the-badge" alt="Bug Hunter" />
 </p>
 
@@ -52,34 +52,34 @@
 ### 🧰 QA Toolkit
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Manual%20Testing-4B5563?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual%20Testing-4B5563?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Manual Testing" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <br/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
 </p>
 
 ### 💻 Dev Stack
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36"/></a>
-  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/></a>
+  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="Node.js"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36" alt="PHP"/></a>
 </p>
 
 ### 🎯 Beyond Code
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Travelling-0EA5E9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Designing-EC4899?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reading%20Books-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Watching%20Films-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Travelling-0EA5E9?style=flat-square" alt="Travelling" />
+  <img src="https://img.shields.io/badge/Designing-EC4899?style=flat-square" alt="Designing" />
+  <img src="https://img.shields.io/badge/Reading%20Books-F59E0B?style=flat-square" alt="Reading Books" />
+  <img src="https://img.shields.io/badge/Watching%20Films-8B5CF6?style=flat-square" alt="Watching Films" />
 </p>
 
 </td>
