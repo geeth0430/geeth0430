@@ -4,7 +4,6 @@
 <h3 align="center">🎯 Software Quality Assurance Enthusiast | 🎓 CS Undergraduate @ NSBM Green University, Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geeth0430&label=Profile%20Views&color=16A34A&style=for-the-badge" alt="GitHub Profile Views" />
   <img src="https://img.shields.io/badge/Bug%20Hunter-since%202023-16A34A?style=for-the-badge" alt="Bug Hunter" />
 </p>
 
